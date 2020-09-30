@@ -1,0 +1,33 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: "",  sans-sans-serif;
+}
+h1
+{
+  padding-top:100px;
+  margin-top:0;
+  font-family: "Sacramento",sans-sans-serif;
+}
+
+.top{
+  background-color: #E4F9F5;
+}
+.middle{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+.bottom{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+.top-cloud{
+  padding-top: 50px;
+ position: absolute;
+ right:350px;
+}
+.bottom-cloud{
+  position: absolute;
+}
